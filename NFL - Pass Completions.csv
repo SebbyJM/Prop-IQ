@@ -1,0 +1,25 @@
+game_id,commence_time,in_play,bookmaker,last_update,home_team,away_team,market,label,description,price,point
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,DraftKings,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Over,Jayden Daniels,-103,21.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,DraftKings,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Under,Jayden Daniels,-124,21.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,DraftKings,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Over,Jordan Love,-125,19.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,DraftKings,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Under,Jordan Love,-102,19.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Over,Jayden Daniels,-150,20.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Under,Jayden Daniels,115,20.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Over,Jordan Love,-130,19.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Under,Jordan Love,100,19.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetOnline.ag,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Under,Jayden Daniels,-120,21.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetOnline.ag,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Over,Jayden Daniels,-108,21.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetOnline.ag,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Over,Jordan Love,-108,20.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetOnline.ag,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Under,Jordan Love,-120,20.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,Bovada,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Over,Jayden Daniels,-110,21.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,Bovada,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Under,Jayden Daniels,-120,21.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,Bovada,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Over,Jordan Love,-130,19.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,Bovada,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Under,Jordan Love,100,19.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,FanDuel,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Over,Jordan Love,-120,19.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,FanDuel,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Under,Jordan Love,-106,19.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,FanDuel,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Over,Jayden Daniels,-108,21.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,FanDuel,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Under,Jayden Daniels,-118,21.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetRivers,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Over,Jayden Daniels,-115,21.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetRivers,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Under,Jayden Daniels,-115,21.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetRivers,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Over,Jordan Love,-114,19.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetRivers,9/11/2025,Green Bay Packers,Washington Commanders,player_pass_completions,Under,Jordan Love,-117,19.5

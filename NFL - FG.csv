@@ -1,0 +1,9 @@
+game_id,commence_time,in_play,bookmaker,last_update,home_team,away_team,market,label,description,price,point
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,DraftKings,9/11/2025,Green Bay Packers,Washington Commanders,player_field_goals,Over,Brandon McManus,-110,1.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,DraftKings,9/11/2025,Green Bay Packers,Washington Commanders,player_field_goals,Under,Brandon McManus,-116,1.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,DraftKings,9/11/2025,Green Bay Packers,Washington Commanders,player_field_goals,Over,Matt Gay,-109,1.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,DraftKings,9/11/2025,Green Bay Packers,Washington Commanders,player_field_goals,Under,Matt Gay,-117,1.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_field_goals,Over,Matt Gay,-105,1.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_field_goals,Under,Matt Gay,-125,1.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_field_goals,Over,Brandon McManus,-118,1.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_field_goals,Under,Brandon McManus,-110,1.5

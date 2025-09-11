@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#9b5cff"   # purple accent
+backgroundColor = "#000000"
+secondaryBackgroundColor = "#0b0b0b"
+textColor = "#ffffff"
+font = "sans serif"

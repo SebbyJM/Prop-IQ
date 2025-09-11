@@ -1,0 +1,43 @@
+game_id,commence_time,in_play,bookmaker,last_update,home_team,away_team,market,label,description,price,point
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,DraftKings,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Josh Jacobs,-113,97.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,DraftKings,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Josh Jacobs,-113,97.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,DraftKings,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Deebo Samuel Sr.,-111,60.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,DraftKings,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Deebo Samuel Sr.,-115,60.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,DraftKings,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Austin Ekeler,-112,49.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,DraftKings,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Austin Ekeler,-114,49.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Matthew Golden,-118,33.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Matthew Golden,-110,33.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Josh Jacobs,-115,91.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Josh Jacobs,-115,91.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Jayden Reed,-115,43.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Jayden Reed,-115,43.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Austin Ekeler,-115,45.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Austin Ekeler,-115,45.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Deebo Samuel Sr.,-115,60.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Deebo Samuel Sr.,-115,60.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Romeo Doubs,-115,44.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Romeo Doubs,-115,44.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,Bovada,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Austin Ekeler,-115,45.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,Bovada,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Austin Ekeler,-115,45.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,Bovada,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Deebo Samuel Sr.,-115,62.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,Bovada,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Deebo Samuel Sr.,-115,62.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,Bovada,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Dontayvion Wicks,-115,21.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,Bovada,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Dontayvion Wicks,-115,21.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,Bovada,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Jayden Reed,-115,43.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,Bovada,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Jayden Reed,-115,43.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,Bovada,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Josh Jacobs,-115,95.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,Bovada,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Josh Jacobs,-115,95.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,Bovada,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Matthew Golden,-115,34.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,Bovada,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Matthew Golden,-115,34.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,Bovada,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Romeo Doubs,-115,44.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,Bovada,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Romeo Doubs,-115,44.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,FanDuel,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Josh Jacobs,-112,98.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,FanDuel,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Josh Jacobs,-118,98.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,FanDuel,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Austin Ekeler,-112,48.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,FanDuel,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Austin Ekeler,-118,48.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,FanDuel,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Deebo Samuel Sr.,-118,59.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,FanDuel,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Deebo Samuel Sr.,-114,59.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetRivers,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Josh Jacobs,-114,94.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetRivers,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Josh Jacobs,-117,94.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetRivers,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Over,Austin Ekeler,-113,47.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetRivers,9/11/2025,Green Bay Packers,Washington Commanders,player_rush_reception_yds,Under,Austin Ekeler,-118,47.5

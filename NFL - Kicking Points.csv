@@ -1,0 +1,11 @@
+game_id,commence_time,in_play,bookmaker,last_update,home_team,away_team,market,label,description,price,point
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,DraftKings,9/11/2025,Green Bay Packers,Washington Commanders,player_kicking_points,Over,Brandon McManus,100,7.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,DraftKings,9/11/2025,Green Bay Packers,Washington Commanders,player_kicking_points,Under,Brandon McManus,-127,7.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,DraftKings,9/11/2025,Green Bay Packers,Washington Commanders,player_kicking_points,Over,Matt Gay,-131,6.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,DraftKings,9/11/2025,Green Bay Packers,Washington Commanders,player_kicking_points,Under,Matt Gay,102,6.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_kicking_points,Over,Matt Gay,-120,6.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_kicking_points,Under,Matt Gay,-110,6.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_kicking_points,Over,Brandon McManus,-145,6.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetMGM,9/11/2025,Green Bay Packers,Washington Commanders,player_kicking_points,Under,Brandon McManus,110,6.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetRivers,9/11/2025,Green Bay Packers,Washington Commanders,player_kicking_points,Over,Brandon McManus,-110,7.5
+0c6e5d9821ce0d3e82f3e792879776a6,9/11/2025,FALSE,BetRivers,9/11/2025,Green Bay Packers,Washington Commanders,player_kicking_points,Over,Matt Gay,-130,6.5
