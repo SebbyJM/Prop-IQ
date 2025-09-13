@@ -658,14 +658,42 @@ if page == "NFL":
                 def prop_type_and_threshold(row):
                     prop = row["Prop_LC"]
                     line = row["PrizePicks_Line"]
+                    # For passing props, add odds filter
                     if "completion" in prop:
-                        return line >= 23
+                        # Must have at least one side odds >=0 (not both negative)
+                        try:
+                            over_odds = float(row.get("Over_Odds", 0))
+                            under_odds = float(row.get("Under_Odds", 0))
+                        except Exception:
+                            over_odds, under_odds = 0, 0
+                        if (line >= 23) and not (over_odds < 0 and under_odds < 0):
+                            return True
+                        else:
+                            return False
                     elif "pass attempt" in prop:
-                        return line >= 30
+                        try:
+                            over_odds = float(row.get("Over_Odds", 0))
+                            under_odds = float(row.get("Under_Odds", 0))
+                        except Exception:
+                            over_odds, under_odds = 0, 0
+                        if (line >= 30) and not (over_odds < 0 and under_odds < 0):
+                            return True
+                        else:
+                            return False
+                    elif "pass yard" in prop:
+                        try:
+                            over_odds = float(row.get("Over_Odds", 0))
+                            under_odds = float(row.get("Under_Odds", 0))
+                        except Exception:
+                            over_odds, under_odds = 0, 0
+                        if (line >= 225) and not (over_odds < 0 and under_odds < 0):
+                            return True
+                        else:
+                            return False
                     elif "rush attempt" in prop:
                         return line >= 10
                     elif "receiving yards" in prop:
-                        return line >= 35
+                        return line >= 40
                     elif "receptions" in prop:
                         return line >= 2.5
                     elif "rushing yards" in prop:
@@ -681,18 +709,35 @@ if page == "NFL":
                 temp["Edge"] = temp["Projection"] - temp["PrizePicks_Line"]
                 # Only keep props where the edge is at least +1.0
                 temp = temp[temp["Edge"] >= 1.0]
-                # Sort by projection edge descending, then by best odds strength (lowest absolute Over_Odds)
-                def odds_strength(row):
-                    try:
-                        return abs(float(row["Over_Odds"]))
-                    except:
-                        return 9999
-                temp["Odds_Strength"] = temp.apply(odds_strength, axis=1)
-                temp = temp.sort_values(["Edge", "Odds_Strength"], ascending=[False, True])
-                top = temp.head(4)
+                # --- Grouping logic for value prop categories ---
+                # Define categories and their matching logic
+                categories = {
+                    "passing": lambda s: (
+                        "pass yard" in s or "completion" in s or "pass attempt" in s
+                    ),
+                    "rush_attempts": lambda s: "rush attempt" in s,
+                    "receptions": lambda s: "receptions" in s,
+                    "receiving_yards": lambda s: "receiving yards" in s,
+                    "field_goal": lambda s: "field goal" in s,
+                }
+                selected_rows = []
+                for cat, match_fn in categories.items():
+                    cat_df = temp[temp["Prop_LC"].apply(match_fn)]
+                    if not cat_df.empty:
+                        # Sort by Edge descending, then by Odds_Strength ascending
+                        def odds_strength(row):
+                            try:
+                                return abs(float(row["Over_Odds"]))
+                            except:
+                                return 9999
+                        cat_df = cat_df.copy()
+                        cat_df["Odds_Strength"] = cat_df.apply(odds_strength, axis=1)
+                        cat_df = cat_df.sort_values(["Edge", "Odds_Strength"], ascending=[False, True])
+                        # Pick the top row for this category
+                        selected_rows.append(cat_df.iloc[0])
 
-                if not top.empty:
-                    for _, row in top.iterrows():
+                if selected_rows:
+                    for row in selected_rows:
                         pp_line_fmt = f"{row['PrizePicks_Line']:.1f}" if isinstance(row['PrizePicks_Line'], (float, int)) else str(row['PrizePicks_Line'])
                         proj_fmt = f"{row['Projection']:.1f}" if isinstance(row['Projection'], (float, int)) else str(row['Projection'])
                         over_odds_fmt = format_odds(row['Over_Odds'])
